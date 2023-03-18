@@ -1,0 +1,298 @@
+{
+    "titles": ["Модель", "Дата начала", "Предполагаемая дата", "Максимальный дедлайн", "Дата финала"],
+    "models": ["1", "2", "3", "4", "5", "6"],
+    "startDates": ["2016, 1, 5", "2016, 1, 5", "2016, 1, 5", "2016, 1, 5", "2016, 1, 5", "2016, 1, 5"],
+    "estimatedDates": ["2016, 1, 6", "2016, 1, 6", "2016, 1, 6", "2016, 1, 6", "2016, 1, 6", "2016, 1, 6"],
+    "maximumDeadline": ["2016, 2, 1", "2016, 2, 1", "2016, 2, 1", "2016, 2, 1", "2016, 2, 1", "2016, 2, 1"],
+    "finalDates": ["2016, 1, 8", "2016, 1, 8", "2016, 1, 8", "2016, 1, 8", "2016, 1, 8", "2016, 1, 8"],
+    "category": [
+        { "category": "Задача 6" },
+        { "category": "Задача 5" },
+        { "category": "Задача 4" },
+        { "category": "Задача 3" },
+        { "category": "Задача 2" },
+        { "category": "Задача 1" },
+        { "category": "Кол-во часов" }
+    ],
+    "data": [
+      {
+        "category": "Кол-во часов",
+        "start": "2016, 1, 1",
+        "end": "2016, 1, 31",
+        "columnSettings": {
+          "fill": "red"
+        },
+        "hours": 65,
+        "task": "Январь"
+      }, {
+        "category": "Кол-во часов",
+        "start": "2016, 2, 1",
+        "end": "2016, 2, 29",
+        "columnSettings": {
+          "fill": "red"
+        },
+        "hours": 65,
+        "task": "Февраль"
+      }, {
+        "category": "Кол-во часов",
+        "start": "2016, 3, 1",
+        "end": "2016, 3, 31",
+        "columnSettings": {
+          "fill": "red"
+        },
+        "hours": 34,
+        "task": "Март"
+      }, {
+        "category": "Кол-во часов",
+        "start": "2016, 4, 1",
+        "end": "2016, 4, 30",
+        "columnSettings": {
+          "fill": "red"
+        },
+        "hours": 52,
+        "task": "Апрель"
+      }, {
+        "category": "Кол-во часов",
+        "start": "2016, 5, 1",
+        "end": "2016, 5, 31",
+        "columnSettings": {
+          "fill": "red"
+        },
+        "hours": 61,
+        "task": "Май"
+      }, {
+        "category": "Кол-во часов",
+        "start": "2016, 6, 1",
+        "end": "2016, 6, 30",
+        "columnSettings": {
+          "fill": "red"
+        },
+        "hours": 72,
+        "task": "Июнь"
+      }, {
+        "category": "Кол-во часов",
+        "start": "2016, 7, 1",
+        "end": "2016, 7, 31",
+        "columnSettings": {
+          "fill": "red"
+        },
+        "hours": 32,
+        "task": "Июль"
+      }, {
+        "category": "Задача 1",
+        "start": "2016, 2, 5",
+        "end": "2016, 3, 18",
+        "columnSettings": {
+          "fill": "yellow"
+        },
+        "hours": 24,
+        "task": "Подготовительный этап"
+      }, {
+        "category": "Задача 1",
+        "start": "2016, 3, 19",
+        "end": "2016, 4, 18",
+        "columnSettings": {
+          "fill": "green"
+        },
+        "hours": 40,
+        "task": "Тесты"
+      }, {
+        "category": "Задача 1",
+        "start": "2016, 4, 19",
+        "end": "2016, 5, 25",
+        "columnSettings": {
+          "fill": "orange"
+        },
+        "hours": 13,
+        "task": "Массовый продукт"
+      }, {
+        "category": "Задача 1",
+        "start": "2016, 5, 26",
+        "end": "2016, 6, 30",
+        "columnSettings": {
+          "fill": "blue"
+        },
+        "hours": 33,
+        "task": "Запуск"
+      }, {
+        "category": "Задача 2",
+        "start": "2016, 2, 15",
+        "end": "2016, 3, 23",
+        "columnSettings": {
+          "fill": "yellow"
+        },
+        "hours": 38,
+        "task": "Подготовительный этап"
+      }, {
+        "category": "Задача 2",
+        "start": "2016, 3, 24",
+        "end": "2016, 4, 30",
+        "columnSettings": {
+          "fill": "green"
+        },
+        "hours": 52,
+        "task": "Тесты"
+      }, {
+        "category": "Задача 2",
+        "start": "2016, 5, 2",
+        "end": "2016, 6, 10",
+        "columnSettings": {
+          "fill": "orange"
+        },
+        "hours": 22,
+        "task": "Массовый продукт"
+      }, {
+        "category": "Задача 2",
+        "start": "2016, 6, 11",
+        "end": "2016, 6, 28",
+        "columnSettings": {
+          "fill": "blue"
+        },
+        "hours": 22,
+        "task": "Запуск"
+      }, {
+        "category": "Задача 3",
+        "start": "2016, 1, 5",
+        "end": "2016, 2, 18",
+        "columnSettings": {
+          "fill": "yellow"
+        },
+        "hours": 30,
+        "task": "Подготовительный этап"
+      }, {
+        "category": "Задача 3",
+        "start": "2016, 2, 19",
+        "end": "2016, 3, 18",
+        "columnSettings": {
+          "fill": "green"
+        },
+        "hours": 46,
+        "task": "Тесты"
+      }, {
+        "category": "Задача 3",
+        "start": "2016, 3, 19",
+        "end": "2016, 4, 25",
+        "columnSettings": {
+          "fill": "orange"
+        },
+        "hours": 10,
+        "task": "Массовый продукт"
+      }, {
+        "category": "Задача 3",
+        "start": "2016, 4, 26",
+        "end": "2016, 6, 10",
+        "columnSettings": {
+          "fill": "blue"
+        },
+        "hours": 62,
+        "task": "Запуск"
+      }, {
+        "category": "Задача 4",
+        "start": "2016, 3, 5",
+        "end": "2016, 4, 18",
+        "columnSettings": {
+          "fill": "yellow"
+        },
+        "hours": 37,
+        "task": "Подготовительный этап"
+      }, {
+        "category": "Задача 4",
+        "start": "2016, 4, 19",
+        "end": "2016, 5, 18",
+        "columnSettings": {
+          "fill": "green"
+        },
+        "hours": 45,
+        "task": "Тесты"
+      }, {
+        "category": "Задача 4",
+        "start": "2016, 5, 19",
+        "end": "2016, 6, 25",
+        "columnSettings": {
+          "fill": "orange"
+        },
+        "hours": 28,
+        "task": "Массовый продукт"
+      }, {
+        "category": "Задача 4",
+        "start": "2016, 6, 26",
+        "end": "2016, 7, 10",
+        "columnSettings": {
+          "fill": "blue"
+        },
+        "hours": 15,
+        "task": "Запуск"
+      }, {
+        "category": "Задача 5",
+        "start": "2016, 1, 5",
+        "end": "2016, 2, 18",
+        "columnSettings": {
+          "fill": "yellow"
+        },
+        "hours": 67,
+        "task": "Подготовительный этап"
+      }, {
+        "category": "Задача 5",
+        "start": "2016, 2, 19",
+        "end": "2016, 3, 18",
+        "columnSettings": {
+          "fill": "green"
+        },
+        "hours": 33,
+        "task": "Тесты"
+      }, {
+        "category": "Задача 5",
+        "start": "2016, 3, 19",
+        "end": "2016, 4, 25",
+        "columnSettings": {
+          "fill": "orange"
+        },
+        "hours": 41,
+        "task": "Массовый продукт"
+      }, {
+        "category": "Задача 5",
+        "start": "2016, 4, 26",
+        "end": "2016, 5, 18",
+        "columnSettings": {
+          "fill": "blue"
+        },
+        "hours": 21,
+        "task": "Запуск"
+      }, {
+        "category": "Задача 6",
+        "start": "2016, 1, 5",
+        "end": "2016, 2, 18",
+        "columnSettings": {
+          "fill": "yellow"
+        },
+        "hours": 36,
+        "task": "Подготовительный этап"
+      }, {
+        "category": "Задача 6",
+        "start": "2016, 2, 19",
+        "end": "2016, 3, 18",
+        "columnSettings": {
+          "fill": "green"
+        },
+        "hours": 57,
+        "task": "Тесты"
+      }, {
+        "category": "Задача 6",
+        "start": "2016, 3, 19",
+        "end": "2016, 4, 25",
+        "columnSettings": {
+          "fill": "orange"
+        },
+        "hours": 30,
+        "task": "Массовый продукт"
+      }, {
+        "category": "Задача 6",
+        "start": "2016, 4, 26",
+        "end": "2016, 5, 18",
+        "columnSettings": {
+          "fill": "blue"
+        },
+        "hours": 21,
+        "task": "Запуск"
+      }]
+}
